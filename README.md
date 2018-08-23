@@ -2,7 +2,7 @@
 > 音频插入
 
 ## Example
-![Demo地址:https://future-component.github.io/BBMusic/example/index.html](https://future-component.github.io/BBMusic/example/index.html)
+[Demo地址:https://future-component.github.io/BBMusic/example/index.html](https://future-component.github.io/BBMusic/example/index.html)
 
 ## 实例
 依赖样式
